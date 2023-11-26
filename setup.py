@@ -19,7 +19,7 @@ setup(
         'black>=23.11.0,'
         'lxml>=4.9.3',
         'selenium>=4.15.12',
-        'beautifulsoup4>=04.12.2'
+        'beautifulsoup4>=4.12.2'
     ],
 )
 

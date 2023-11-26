@@ -1,7 +1,7 @@
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
-
+print("successfully ran")
 
 class Sitemap:
     def __init__(self, base_url="https://openai.com/"):
