@@ -2,7 +2,7 @@
 from distutils.core import setup
 
 setup(
-    name='analysis',
+    name='webanalysis',
     version='0.0.1',
     description='Data analysis.',
     author='Lokesh Dondapati',
